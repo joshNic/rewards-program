@@ -4,7 +4,6 @@ import {
   mockApiFetch,
   filteredMonths,
 } from "./utils/rewardsUtil";
-import { MOCK_DATA } from "./store/data";
 import Loading from "./components/Loading";
 import { CustomerRewardsDisplay } from "./components/CustomerRewardsDisplay";
 function App() {
